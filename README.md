@@ -6,7 +6,7 @@ Clicking on different buttons of different places will send the user to the phot
 Has background music which is automatically played when user comes in that environmanet.
 Includes 3D models prefabs which are embedded in the scene eg: Dancing footballer or Dancing Boy, etc.
 
-### features
+### Features
 Uses Photospheres for the virtual reality and also contains 3D Model Prefabs in it.
 Has background sound(Music) and buttons with touch control to move to another photosphere.
 Project includes all the required assets and 3D Models.
