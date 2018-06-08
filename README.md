@@ -11,7 +11,9 @@ Uses Photospheres for the virtual reality and also contains 3D Model Prefabs in 
 Has background sound(Music) and buttons with touch control to move to another photosphere.
 Project includes all the required assets and 3D Models.
 
-#### And also in Amazon App Store : https://www.amazon.com/Great-Virtual-Tour-360-Videos/dp/B079NQW9KY/ref=sr_1_3?s=mobile-apps&ie=UTF8&qid=1528441198&sr=1-3&keywords=virtual+tour
+#### Live in Amazon App Store : https://www.amazon.com/Great-Virtual-Tour-360-Videos/dp/B079NQW9KY/ref=sr_1_3?s=mobile-apps&ie=UTF8&qid=1528441198&sr=1-3&keywords=virtual+tour
+
+### Received 500+ downloads on Amazon App Store
 
 Also the apk file for android is provided in the repository itself.
 
