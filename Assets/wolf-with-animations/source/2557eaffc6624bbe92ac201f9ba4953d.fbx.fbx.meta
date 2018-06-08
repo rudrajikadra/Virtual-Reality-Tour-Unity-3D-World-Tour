@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 9b7f1c874e45ace4aa6824603c0745b4
+timeCreated: 1517658427
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: aug_L
+    100004: aug_lied_O_L
+    100006: aug_lied_O_R
+    100008: aug_lied_U_L
+    100010: aug_lied_U_R
+    100012: Aug_R
+    100014: Augen_con
+    100016: Bauch
+    100018: Bauch_001
+    100020: Bauch_003
+    100022: Becken
+    100024: Braun_O_L
+    100026: Braun_O_R
+    100028: Brust
+    100030: Hals
+    100032: Hals_fett
+    100034: Hemi
+    100036: IK_Aug_L
+    100038: IK_Aug_R
+    100040: Kopf
+    100042: Kopf_002
+    100044: Mauloben
+    100046: Maulunten
+    100048: MundW_L
+    100050: MundW_R
+    100052: Oberarm_L
+    100054: Oberarm_R
+    100056: Oberschenkel_L
+    100058: Oberschenkel_R
+    100060: Ohr_L
+    100062: Ohr_R
+    100064: Pfote1_L
+    100066: Pfote1_R
+    100068: Pfote2_L
+    100070: Pfote2_R
+    100072: Plane
+    100074: Schalterplatte_L
+    100076: Schalterplatte_R
+    100078: Schwanz
+    100080: Schwanz_001
+    100082: Schwanz_002
+    100084: Schwanz_003
+    100086: Unterarm_L
+    100088: Unterarm_R
+    100090: Unterkiefer
+    100092: Unterschenkel_L
+    100094: Unterschenkel_R
+    100096: Vorderpfote_L
+    100098: Vorderpfote_R
+    100100: Wolf
+    100102: Wolf1
+    100104: Wolf2
+    100106: Wolf3
+    400000: //RootNode
+    400002: aug_L
+    400004: aug_lied_O_L
+    400006: aug_lied_O_R
+    400008: aug_lied_U_L
+    400010: aug_lied_U_R
+    400012: Aug_R
+    400014: Augen_con
+    400016: Bauch
+    400018: Bauch_001
+    400020: Bauch_003
+    400022: Becken
+    400024: Braun_O_L
+    400026: Braun_O_R
+    400028: Brust
+    400030: Hals
+    400032: Hals_fett
+    400034: Hemi
+    400036: IK_Aug_L
+    400038: IK_Aug_R
+    400040: Kopf
+    400042: Kopf_002
+    400044: Mauloben
+    400046: Maulunten
+    400048: MundW_L
+    400050: MundW_R
+    400052: Oberarm_L
+    400054: Oberarm_R
+    400056: Oberschenkel_L
+    400058: Oberschenkel_R
+    400060: Ohr_L
+    400062: Ohr_R
+    400064: Pfote1_L
+    400066: Pfote1_R
+    400068: Pfote2_L
+    400070: Pfote2_R
+    400072: Plane
+    400074: Schalterplatte_L
+    400076: Schalterplatte_R
+    400078: Schwanz
+    400080: Schwanz_001
+    400082: Schwanz_002
+    400084: Schwanz_003
+    400086: Unterarm_L
+    400088: Unterarm_R
+    400090: Unterkiefer
+    400092: Unterschenkel_L
+    400094: Unterschenkel_R
+    400096: Vorderpfote_L
+    400098: Vorderpfote_R
+    400100: Wolf
+    400102: Wolf1
+    400104: Wolf2
+    400106: Wolf3
+    2300000: Plane
+    3300000: Plane
+    4300000: Plane
+    4300002: Wolf2
+    4300004: Wolf1
+    4300006: Wolf3
+    7400000: 01_Run
+    7400002: 02_walk
+    7400004: 03_creep
+    7400006: 04_Idle
+    7400008: 05_site
+    9500000: //RootNode
+    10800000: Hemi
+    13700000: Wolf1
+    13700002: Wolf2
+    13700004: Wolf3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 01_Run
+      takeName: 01_Run
+      firstFrame: 0
+      lastFrame: 19.3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 02_walk
+      takeName: 02_walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 03_creep
+      takeName: 03_creep
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 04_Idle
+      takeName: 04_Idle
+      firstFrame: 0
+      lastFrame: 999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 05_site
+      takeName: 05_site
+      firstFrame: -1
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
