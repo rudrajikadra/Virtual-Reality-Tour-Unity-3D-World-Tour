@@ -15,7 +15,7 @@ Project includes all the required assets and 3D Models.
 
 ### Received 500+ downloads on Amazon App Store
 
-Also the apk file for android is provided in the repository itself.
+The apk file for android is provided in the repository itself.
 
 ## Screenshots
 ![91epri01mhl](https://user-images.githubusercontent.com/15246084/41155678-91e18a70-6b3c-11e8-95f3-85eb43dcaacc.png)
